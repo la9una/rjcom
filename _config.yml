@@ -1,0 +1,35 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://rauljesus.com
+title: Prof. Raúl
+email: rauljesus@l@gmail.com
+author: Raúl Jesús López
+description: no se que ponerYou can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description.
+copyright: 'Prof. Raúl Jesús López'
+credits: 'Hecho con amor usando <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/la9una
+#  - title: github
+#    url: https://github.com/IronSummitMedia/startbootstrap
+#  - title: linkedin
+#    url: 
+  - title: facebook
+    url: https://facebook.com/rauljesuslopez
